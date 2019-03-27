@@ -1,0 +1,38 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@import url('https://fonts.googleapis.com/css?family=Vollkorn:400,400i');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i');
+
+$gray500: #607D8B;
+$yellow900: #F57F17;
+$yellow500: #FFEB3B;
+$text-black:#333;
+$page-white:#fafafa;
+
+body{
+    margin:40px auto;
+    max-width:650px;
+    line-height:1.6;
+    font-size:18px;
+    font-family: 'Lato', sans-serif;
+    color: $text-black;
+    background: $page-white;
+    padding:0 10px;
+}
+h1,h2,h3{
+    color: $gray500;
+    margin-top: 54px;
+    margin-bottom: 1ex;
+    line-height:1;
+    font-family: 'Vollkorn', serif;
+    font-weight: 400;
+}
+h3{
+    font-style: italic;
+}
+a{
+    color: $yellow900;
+}
