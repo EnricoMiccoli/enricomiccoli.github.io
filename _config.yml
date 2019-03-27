@@ -2,7 +2,7 @@ title: Of vars and dirs
 description: > 
   An experiment in blogging, Jekyll and Github pages.
 baseurl: "" 
-url: "" 
+url: "enricomiccoli.github.io" 
 
 # Build settings
 markdown: kramdown
