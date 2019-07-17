@@ -55,7 +55,7 @@ table{
 div.update {
     padding-left: 1em;
     border-left: 2px solid $gray500;
-    span {
+    span.update-label {
         color: $gray500;
         text-transform: uppercase;
     }
