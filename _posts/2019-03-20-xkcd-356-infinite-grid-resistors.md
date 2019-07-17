@@ -61,6 +61,13 @@ B &\mapsto (c-1, c+1)\\
 ### Running the simulation
 Futzing together the grid generator and the solver we get [this script](https://gist.github.com/EnricoMiccoli/d7e5ead0825523aa4daa5bc75e5ed62f). We can then run it with $$n$$ as an argument. 
 
+<div class="update">
+<span>Update</span> I rewrote the code, check out the performance improvements in the next blog post!<br>
+<a href="{{ site.baseurl }}{% post_url 2019-07-17-updating-xkcd-356-sparse %}">
+    Updating the solver for the infinite resistor grid
+</a>
+</div>
+
 Here I plotted $$R_n$$ for $$n=3,9,27,51,81,157,171$$:
 
 ![Plot of simulation results](/media/results.svg)
