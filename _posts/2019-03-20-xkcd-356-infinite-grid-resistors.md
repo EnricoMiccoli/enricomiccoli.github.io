@@ -1,6 +1,7 @@
 ---
 title: Solving the nerd sniper in XKCD 356
 layout: post
+math: yes
 ---
 
 Yeah, I was sniped all right by [356](https://xkcd.com/356/)... but I finally found a solution I could understand! Where did I find it? I made it myself.

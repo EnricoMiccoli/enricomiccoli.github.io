@@ -1,6 +1,5 @@
 ---
 title: Home V&D
-description: descrizione della pagine titolata pippo
 layout: default
 ---
 # Vars and Dirs
