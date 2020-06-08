@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<div id="dateslug">{{ page.date | date: "%Y-%m-%d" }}</div>
 <h1>{{ page.title }} </h1>
 
 {{ content }}
+
+<footer>
+    {% include ccbysa.html %}
+</footer>

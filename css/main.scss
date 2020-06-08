@@ -7,6 +7,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,400i');
 
 $gray500: #607D8B;
+$gray200: #B0BEC5;
 $yellow900: #F57F17;
 $yellow500: #FFEB3B;
 $text-black:#333;
@@ -29,6 +30,9 @@ h1,h2,h3{
     line-height:1;
     font-family: 'Vollkorn', serif;
     font-weight: 400;
+}
+h1{
+    margin-top: 0.5ex;
 }
 h3{
     font-style: italic;
@@ -58,5 +62,15 @@ div.update {
     span.update-label {
         color: $gray500;
         text-transform: uppercase;
+    }
+}
+#dateslug {
+    color: $gray200;
+}
+footer {
+    padding-top: 3em;
+    color: $gray200;
+    a {
+        color: $gray200;
     }
 }
