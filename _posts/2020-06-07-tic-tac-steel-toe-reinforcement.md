@@ -27,7 +27,7 @@ and
 
 So why did I bother making yet another one?
 Mostly to claim authorship over the "tic-tac-steel-toe" pun,
-but also to exercise my python skills and to try out some *blazing fast* Python+Rust integrations (more on this in a future post). \
+but also to exercise my python skills and to try out some *blazing fast* Python+Rust integrations (more on this in a future post).
 But mostly for the pun.
 
 [Check out TTST on GitHub.](https://github.com/EnricoMiccoli/tic-tac-steel-toe)
