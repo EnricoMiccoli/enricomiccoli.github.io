@@ -31,7 +31,7 @@ h1,h2,h3{
     font-family: 'Vollkorn', serif;
     font-weight: 400;
 }
-h1{
+#page_title{
     margin-top: 0.5ex;
 }
 h3{
@@ -73,4 +73,7 @@ footer {
     a {
         color: $gray200;
     }
+}
+figcaption {
+    font-style: italic;
 }
