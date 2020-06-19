@@ -1,0 +1,19 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+@font-face {
+    font-family: "webtram";
+    src: url("../media/tram.woff") format("woff");
+}
+
+#specimen{
+    font-family: "webtram";
+    text-align: center;
+    font-size: 200%;
+}
+h1,h2,h3{
+    font-family: "webtram";
+    text-transform: uppercase;
+}
