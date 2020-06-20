@@ -19,7 +19,7 @@ I started without any concept, reference or inspiration,
 so I conjured an "automatic" workflow:
 pick a random pen, strike some reference rules on the page, get to drawing, and see what happens.
 
-This is what I ended up with: a dip pen with a very sharp and flexible nib, a template to draw rules on the page, and some hundred gliphs to pick from for digitizing.
+This is what I ended up with: a dip pen with a very sharp and flexible nib, a template to draw rules on the page, and some hundred glyphs to pick from for digitizing.
 
 This is probably not the proper approach to font design. Or any sort of design, really.
 
@@ -57,7 +57,7 @@ The latest (and possibly the last) version of tram has the lower case, the upper
     & @ è é 
 </div>
 
-I'm quite fond of the uppercase, it has potential as a big display typeface. The lowercase however is all over the place, it has very unconsistent weights and shapes, giving it poor legibility at all but the biggest sizes.
+I'm quite fond of the uppercase, it has potential as a big display typeface. The lowercase however is all over the place, it has very inconsistent weights and shapes, giving it poor legibility at all but the biggest sizes.
 
 
 
@@ -70,7 +70,7 @@ The effect of kerning.
 </figcaption>
 </figure>
 
-Did you really this is all there is to type design? Oh, poor you... Poor me, actually.
+Did you really think this is all there is to type design? Oh, poor you... Poor me, actually.
 After digitizing all the glyphs I discovered a grave truth:
 you can't draw your characters one by one and expect that they will look good together!
 
