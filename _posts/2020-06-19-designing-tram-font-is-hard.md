@@ -1,6 +1,7 @@
 ---
 title: "As it turns out, designing a font is hard."
 extra_css: tram_specimen
+redirect_from: /font
 layout: post
 ---
 
