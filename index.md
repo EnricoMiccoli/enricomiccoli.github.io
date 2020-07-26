@@ -1,8 +1,8 @@
 ---
-title: Home V&D
+title: Home | EM
 layout: default
 ---
-# Vars and Dirs
+# enricomiccoli.com
 This is my blog, where I document the math-y, programming-y things I've done.
 
 ## Posts
