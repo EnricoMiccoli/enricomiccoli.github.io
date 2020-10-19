@@ -1,6 +1,7 @@
 ---
 title: Updating the solver for the infinite resistor grid from xkcd 356
 layout: post
+math: yes
 ---
 
 With the new release of 
