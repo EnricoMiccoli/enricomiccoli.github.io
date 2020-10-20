@@ -3,7 +3,7 @@ title: "Speeding up Python programs with Rust: a practical example"
 layout: post
 ---
 
-In a previous blog post I have presented TTST, a Python program that trains itself to play Tic-Tac-Toe. Now I want to make it go faster.
+In a [previous blog post][prev] I have presented TTST, a Python program that trains itself to play Tic-Tac-Toe. Now I want to make it go faster.
 
 # The performance of the pure Python implementation
 I will present a flame chart, a graphical represention of total computation time aggregated by function calls. Reading top-down we can see all the function calls made while training, going from `main()` down to the most low-level routines.
@@ -129,6 +129,7 @@ Introduction and a hands-on demo of writing Python extension in Rust](https://ep
 * The flamecharts were generated with [`cProfile`][cpro] and [`snakeviz`][snvz].
 
 
+[prev]: https://enricomiccoli.com/2020/06/07/tic-tac-steel-toe-reinforcement.html
 [wiki]: https://en.wikipedia.org/wiki/Multi-armed_bandit
 [repo]: https://github.com/EnricoMiccoli/ttst-blaze
 [rand]: https://crates.io/crates/rand

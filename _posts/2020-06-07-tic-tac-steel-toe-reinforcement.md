@@ -28,6 +28,14 @@ and
 So why did I bother making yet another one?
 Mostly to claim authorship over the "tic-tac-steel-toe" pun,
 but also to exercise my python skills and to try out some *blazing fast* Python+Rust integrations (more on this in a future post).
-But mostly for the pun.
 
+{% capture update-message %}
+The new post is out, read
+<a href="{{ site.baseurl }}{% post_url 2020-10-21-speeding-up-python-with-rust-example %}">
+    Speeding up Python programs with Rust: a practical example
+</a>
+{% endcapture %}
+{% include update-banner.html content=update-message %}
+
+But mostly for the pun.<br>
 [Check out TTST on GitHub.](https://github.com/EnricoMiccoli/tic-tac-steel-toe)
